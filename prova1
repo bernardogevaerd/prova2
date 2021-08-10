@@ -9,3 +9,4 @@ echo "O arquivo/diretorio $1 tem permissao para leitura"
 else
 echo "O arquivo/diretorio $1 nao tem permissao para leitura"
 fi
+./
